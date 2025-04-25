@@ -1,1 +1,1 @@
-# odin-recipes
+This project is a test of knowledge proposed by GitHub. Upon completion, I will have demonstrated the ability to create a simple HTML structure.
