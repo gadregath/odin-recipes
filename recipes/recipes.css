@@ -1,0 +1,75 @@
+* {
+    font-family: 'Lucida Console', 'Courier New', monospace;
+    margin: 0px;
+    padding: 0px;
+
+}
+
+html {
+    background-color: rgb(229, 155, 207);
+}
+
+.navbar {
+    background-color: #333;
+}
+
+button {
+    width: 100px;
+    height: 50px;
+    background-color: black;
+    color: white;
+    border: 2px solid rgb(255, 251, 0);
+    padding: 5px 10px;
+    margin-left: 1820px;
+}
+
+a :hover {
+    background-color: white;
+    color: black;
+    border: 2px solid red;
+}
+
+h1 {
+    font-size: 2.986rem;
+    color: red;
+}
+
+h2 {
+    font-size: 2.488rem;
+}
+
+.introduction {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+h2 {
+    text-align: center;
+}
+
+.description {
+    border: 3px solid black;
+    margin: 10px 10px;
+    padding: 0 10px;
+}
+
+.ingredients {
+    border: 3px solid black;
+    margin: 10px 10px;
+    padding: 0 10px;
+}
+
+ul {
+    list-style-position: inside;
+    margin-left: 10px;
+}
+
+.steps {
+    border: 3px solid black;
+    margin: 10px 10px;
+    padding: 0 10px;
+}
+
+ol {
+    list-style-position: inside;
+}
